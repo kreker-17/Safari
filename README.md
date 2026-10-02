@@ -220,4 +220,4 @@ Safari is available as a complete free version for Windows users, with all featu
 Get started with Safari today and elevate your web browsing experience on Windows! Download now!
 
 ---
-**Last updated:** 2026-10-02 16:06:15 UTC
+**Last updated:** 2026-10-02 21:09:13 UTC
